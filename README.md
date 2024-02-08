@@ -9,7 +9,7 @@ I'm a full stack developer...
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio.satganzdevs.tech/)
 [![instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kurniawansatria.mp4)
-[![whatsapp](https://img.shields.io/badge/whatsapp-e?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281316701742)
+[![whatsapp](https://img.shields.io/badge/whatsapp-e?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/6281316701742](https://api.whatsapp.com/send/?phone=6281316701742&text&type=phone_number&app_absent=0))
 
 
 ## Other Common Github Profile Sections
